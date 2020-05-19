@@ -19,3 +19,8 @@ IBM Cloud Signup
 Installing Node-RED
 
 ![image](https://user-images.githubusercontent.com/51874510/82298485-d17bfd80-99d1-11ea-966c-efcf36222061.png)
+
+Installing Python
+
+![image](https://user-images.githubusercontent.com/51874510/82301526-00946e00-99d6-11ea-9227-b6719b8dddbc.png)
+
